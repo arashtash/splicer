@@ -1,6 +1,5 @@
-//
-// Created by Alex Brodsky on 2023-09-20.
-// Extended and modified by Arash Tashakori
+
+// @author by Arash Tashakori
 //
 
 #include <stdlib.h>
