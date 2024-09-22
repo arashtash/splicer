@@ -4,6 +4,9 @@ This is an assignment for my Systems Programming course at Dalhousie University.
 # Author
 linked_list.c (basic implementation excluding the last 2 functions), linked_list.h, and the tests: Author: Dr. Alexander Brodsky
 linked_list.c (last 2 functions - the splicing and overlap finding functions) and main.c (The actual splicer program): Author: Arash Tashakori
+
+[Website and Contact information](https://arashtash.github.io/)
+
 Please note we developed our own Linked List in C as a part of a shorter weekly assignment prior to this assignment.
 
 ## Overview
